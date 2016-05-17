@@ -7,7 +7,7 @@ O código gera as tabelas presentes aqui.
 
 #### gini_pib_\<PAIS\>.csv
 
-Tabela com as sequintes colunas para o <PAIS>:
+Tabela com as sequintes colunas para o \<PAIS\>:
 
 * **Ano**: Ano dos dados
 * **gini**: Gini do ano
