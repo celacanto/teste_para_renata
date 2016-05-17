@@ -5,7 +5,7 @@ Dados utilizados no Gŕafico ["O crescimento e a desigualdade no Brasil e em 3 p
 #### formata_pib_gini.R
 O código gera as tabelas presentes aqui.
 
-#### gini_pib_\\<PAIS\\>.csv
+#### gini_pib_\<PAIS\>.csv
 
 Tabela com as sequintes colunas para o <PAIS>:
 
