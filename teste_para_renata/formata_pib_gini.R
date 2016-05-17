@@ -98,12 +98,9 @@ get_gdpXgini <- function(country,
 giniGdpData <- llply(paises, get_gdpXgini)
 names(giniGdpData) <- paises
 
+colnames(giniGdpData) <- c("gini", "gdp", "gdpGrow", "gdp_growSince1993")
 
 
-# getData
-# -----------------------------------------------------------------------------------
-giniGdpData <- llply(paises, get_gdpXgini)
-names(giniGdpData) <- paises
 
 
 
